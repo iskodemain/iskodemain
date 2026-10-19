@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,javascript,tailwind,react,reactbootstrap,nodejs,expressjs,mysql,postgres,redis,sequelize,postman,api,axios,jwt,git,github,vercel,render,aiven,cloudinary,npm,sublime,vscode,canva,figma&theme=light&perline=12"
+      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,javascript,tailwind,react,reactbootstrap,nodejs,expressjs,mysql,postgres,redis,sequelize,postman,api,axios,jwt,git,github,vercel,render,npm,sublime,vscode,canva,figma&theme=light&perline=12"
     />
   </a>
 </p>
